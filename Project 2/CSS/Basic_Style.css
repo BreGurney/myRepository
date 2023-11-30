@@ -21,7 +21,7 @@ h1 {
 -----------------------------------------------------*/
 
 .container .squares:nth-child(-n+4) {
-    background-image: url("../images/icon/smileyface2.png");
+    background-image: url("C:\Users\gurne\OneDrive\Desktop\Project 2\images\icons\smileyface2.png".png");
     color: #fff;
     float: left;
     width: 100px;
